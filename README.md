@@ -2,4 +2,4 @@
 
 # KIOS CoE Reproducible Research template for CodeOcean
 
-This is the folder structure for the codeocean capsule.
+This is the folder structure for the CodeOcean capsule.
