@@ -1,0 +1,11 @@
+metadata_version: 1
+name: Template Example
+description: This is a simple example in MATLAB
+tags:
+- matlab
+- example
+- codeocean
+authors:
+- name: Marios S. Kyriakou
+  affiliations:
+  - name: KIOS Center of Excellence, University of Cyprus, Cyprus
