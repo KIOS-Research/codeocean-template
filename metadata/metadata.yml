@@ -2,6 +2,7 @@ metadata_version: 1
 name: Template Example
 description: This is a simple example in MATLAB
 tags:
+- KIOSCoE
 - matlab
 - example
 - codeocean
